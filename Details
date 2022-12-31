@@ -1,0 +1,41 @@
+
+Topics:
+
+  SCM Tool: ( Source Control/Code Management )
+    Git
+      Repo
+      Commit
+      Branch
+
+  SCM Provider ( uses GIT to manage files ):
+    Github
+    Bitbucket
+    Gitlab
+
+
+  Netlify --> Publish Your development to Internet ( anybody can access it )
+
+  Recap:
+    XHR:
+      Steps
+
+    Window & Document
+      
+    Array & JSON iteration:
+      Array:
+
+      JSON:
+        js object variable VS JSON(  ) 
+
+    var, let, const
+
+    Object Destructuring:
+      un wrapping individual entities
+      nested object destructuring
+    
+    spread & rest
+
+    map, forEach, filter, reduce
+
+Actions:
+  Recording Missing for 24th Dec
