@@ -26,7 +26,13 @@ Topics:
       Array:
 
       JSON:
-        js object variable VS JSON(  ) 
+        Object in JS is not an iterable entity
+        for in just iterated keys not the enitre object
+        js object variable
+        JSON( **file format** for sharing data in key value pair with rules sprcific json )
+          key should be in double quotes
+          string value should be in double quotes
+          file should start with {}, []
 
     var, let, const
 
